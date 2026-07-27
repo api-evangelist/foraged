@@ -1,0 +1,25 @@
+# Foraged
+
+> Foraged is a community marketplace for wild and specialty foods, connecting independent foragers, farmers, fishers, and artisan food producers directly with home cooks and professional chefs across the United States. Built on a custom Medusa commerce stack, it provides vendor storefronts, product listings, shipping logistics, and secure payments for hard-to-source ingredients such as wild mushrooms, truffles, foraged berries, and sea vegetables. Backed by Bessemer Venture Partners. Foraged publishes no public developer API; this file is generated from the API Evangelist catalog profile.
+
+## Marketplace
+- [Foraged Marketplace](https://www.foraged.com/): Buy wild and specialty foods from independent producers.
+- [Buy Specialty Foods](https://www.foraged.com/buy): Browse and purchase wild and specialty ingredients.
+- [How It Works](https://www.foraged.com/how-it-works): Overview of how the marketplace operates for buyers and sellers.
+
+## Sell on Foraged
+- [Sell on Foraged](https://explore.foraged.com/sell): All-in-one business platform for independent food producers.
+- [Seller Pricing](https://explore.foraged.com/sell/pricing/): Plans and pricing for vendors.
+- [Wholesale](https://wholesale.foraged.com/): Wholesale ordering for restaurants and stores.
+
+## Support
+- [Help Center](https://help.foraged.com/): Buyer and seller support and FAQs.
+- [Blog](https://www.foraged.com/blog): Stories, recipes, and marketplace news.
+- [Affiliate Program](https://affiliates.foraged.com/): Affiliate partnership program.
+
+## Legal
+- [Terms and Conditions](https://www.foraged.com/terms-and-conditions)
+- [Privacy Policy](https://www.foraged.com/privacy-policy)
+
+## API Evangelist
+- [Foraged APIs.json profile](https://raw.githubusercontent.com/api-evangelist/foraged/refs/heads/main/apis.yml): Machine-readable catalog profile.
