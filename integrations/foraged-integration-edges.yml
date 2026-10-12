@@ -1,0 +1,16 @@
+generated: '2026-10-12'
+method: none
+source:
+- https://zapier.com/apps/foraged/integrations
+- https://n8n.io/integrations/foraged/
+- https://composio.dev/toolkits/foraged
+- https://monid.ai/tools/foraged
+checked:
+- https://composio.dev/toolkits/foraged
+- https://monid.ai/tools/foraged
+- https://n8n.io/integrations/foraged/
+- https://zapier.com/apps/foraged/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
